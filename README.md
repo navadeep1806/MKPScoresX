@@ -208,6 +208,7 @@
         <button class="btn-run" onclick="addBall(0)">0 R</button>
         <button class="btn-run" onclick="addBall(1)">1 R</button>
         <button class="btn-run" onclick="addBall(2)">2 R</button>
+        <button class="btn-run" onclick="addBall(3)">3 R</button>
         <button class="btn-util" onclick="swapStrike()">Swap 🔄</button>
         
         <button class="btn-run" style="background-color: #1d4ed8;" onclick="addBall(4)">4 🔥</button>
